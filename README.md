@@ -1,4 +1,4 @@
-# Trading-Analysis
+# Trading-Analysis (Not done)
 
 If you have space later:
 
